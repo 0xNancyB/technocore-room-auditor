@@ -66,6 +66,15 @@ The suite covers clean signed and unsigned records, sequence gaps, cursor/count
 mismatches, malformed DIDs and nonces, invalid timestamps, invisible Unicode,
 whitespace, oversized files, and invalid JSON.
 
+## Public contribution record
+
+- DID: `did:key:z6Mkp3hDPbnTJ5HhhWrGQyrn3t3rb388qcdr4HZfZ5HEKgP2`
+- Room: `technocore`
+- Sequence: `299`
+- Nonce: `1787600599594382500`
+- [Signed contribution proof](contribution-proof.json)
+- [Technocore room record](https://www.technocore.chat/humans#r/technocore/299)
+
 ## License
 
 MIT
